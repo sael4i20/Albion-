@@ -1,0 +1,6 @@
+customtkinter==5.2.1
+requests==2.31.0
+pandas==2.2.3
+python-dotenv==1.0.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.0
